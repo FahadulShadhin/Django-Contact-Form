@@ -5,6 +5,11 @@
 * Django 3.2.3
 
 ## How to run:
+* Install Django
+ '''
+ pip install Django==3.2.3
+ '''
+
 * Clone the project or download as zip:
 ```
 https://github.com/FahadulShadhin/Django-Contact-Page.git
