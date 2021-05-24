@@ -1,6 +1,6 @@
 # Contact page using Django
 
-## Run It:
+## How to run:
 * Clone the project or download as zip:
 ```
 https://github.com/FahadulShadhin/Django-Contact-Page.git
