@@ -20,5 +20,5 @@ https://github.com/FahadulShadhin/Django-Contact-Page.git
 python manage.py runserver
 ```
 
-<p>>> The website should be running at development server http://127.0.0.1:8000/ </p>
+<p>>>> The website should be running at development server http://127.0.0.1:8000/ </p>
 <p>>>> Copy the link and open it in a browser.</p>
