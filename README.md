@@ -1,9 +1,9 @@
 # Contact page using Django
 
-## Versions
+## Built with:
 '''
-Python 3.9.5
-Django 3.2.3
+* Python 3.9.5
+* Django 3.2.3
 '''
 
 ## How to run:
