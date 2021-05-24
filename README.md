@@ -1,5 +1,11 @@
 # Contact page using Django
 
+## Versions
+'''
+Python 3.9.5
+Django 3.2.3
+'''
+
 ## How to run:
 * Clone the project or download as zip:
 ```
