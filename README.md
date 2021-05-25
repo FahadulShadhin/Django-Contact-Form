@@ -10,7 +10,7 @@
  pip install Django==3.2.3
  ```
 
-* Clone the project or download as zip:
+* Clone the project:
 ```
 https://github.com/FahadulShadhin/Django-Contact-Page.git
 ```
