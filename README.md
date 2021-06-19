@@ -15,7 +15,7 @@
 $ git clone https://github.com/FahadulShadhin/Django-Contact-Page.git
 ```
 
-* cd to the root derectory then run the following command:
+* cd to src then run the following command:
 ```
 $ python manage.py runserver
 ```
